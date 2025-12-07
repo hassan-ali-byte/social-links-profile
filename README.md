@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Live Demo
 
-[View Live Demo](https://hassan-ali-byte.github.io/social-links-profile-main/)
+[View Live Demo](https://social-links-profile-fm-nine.vercel.app/)
 
 ---
 
